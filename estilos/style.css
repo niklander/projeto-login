@@ -3,7 +3,7 @@
 
 /*
 paleta de cores
-verder: #499a09d
+verder: #49a09d
 lilás: #5f2c82
 */
 
@@ -39,6 +39,8 @@ section#login{
     border-radius: 20px;
     box-shadow:0px 0px 10px rgba(0, 0, 0, 0.450) ;
 
+    transition: width .3s, heigth .3s;
+    transition-timing-function: ease;
 }
 
 section#login div#imagem{
