@@ -22,6 +22,13 @@
         width: 70%;
         height: 100%;
     }
+    div#formulario > h1{
+        font-size: 1.6em;
+     }
+
+     div#formulario > p{
+        font-size: 1em;
+    }
 }
 
 @media screen and (min-width:992px){
@@ -46,4 +53,12 @@
         height: 100%;
 
      }
+
+     div#formulario > h1{
+        font-size: 2em;
+     }
+
+     div#formulario > p{
+        font-size: 1.2em;
+    }
 }
